@@ -25,3 +25,20 @@ img {
 }
 
 /*  =================== css ================== */
+
+.main{
+  display: flex;
+  justify-content: space-between;
+}
+
+.mainLeft{
+  max-width: 50%;
+}
+
+.mainRight{
+  max-width: 50%;
+}
+
+.hello{
+  font-size: 70px;
+}
